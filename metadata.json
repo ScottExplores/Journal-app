@@ -1,0 +1,7 @@
+{
+  "name": "Clarity & Comfort",
+  "description": "A soothing, safe space for journaling, goal tracking, and gentle AI support during difficult times.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
